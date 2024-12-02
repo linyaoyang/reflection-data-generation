@@ -26,9 +26,17 @@ pip install torch==2.4.0 transformers>=4.44.2
 ## Usage
 
 Run the main script to start the reasoning data generation process:
-"""
+
+```
 python run.py
-"""
+```
 
+---
 
-Customization:
+## Customization:
+- Modify the input question file or switch to a different LLM for reasoning.
+- Configure hyperparameters such as:
+max_new_tokens
+top_k
+top_p
+These can be adjusted directly in the run.py file to tailor the tool to your requirements.
