@@ -62,8 +62,6 @@ which are 8 outcomes.
 
 Wait, Alternatively
 
-The total number of outcomes when rolling two dice is $6 \times 6 = 36$.
-
 The possible two-digit numbers between 10 and 20 are: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, and 20.
 
 We now count the number of outcomes that will give these numbers.
