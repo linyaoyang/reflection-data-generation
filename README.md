@@ -20,7 +20,7 @@ Ensure you have Python installed, then run the following command to install depe
 
 ```bash
 pip install torch==2.4.0 transformers>=4.44.2
-
+```
 ---
 
 ## Usage
